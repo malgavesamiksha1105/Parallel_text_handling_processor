@@ -1,6 +1,5 @@
 # Python Parallel Text Handling Processor
 
-## Milestone 2 - Text Breaker and Loader
 
 This project reads a large text file, splits it into smaller chunks,
 and processes them in parallel using Python multithreading.
@@ -20,3 +19,4 @@ and processes them in parallel using Python multithreading.
 - Python
 - concurrent.futures
 - Regular Expressions
+
